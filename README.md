@@ -53,3 +53,4 @@ All of the models performed about the same, however, the Decision Tree Classifie
 
 ## Future Improvements 
 1. Using Texas Commision on Law Enforcement Regions (TCOLE) to classify counties with missing or incorrect region information. 
+2. Investigate regional changes withing traffic stop/search data 
