@@ -20,8 +20,8 @@ Data cleaning for the datset includes:
 - Collapsing Race/Sex data into one column 
 
 ## File Descriptions
-`finalized_model.sav`: Final .sav model created using tree-based classifiers 
-`texas_statewide.csv`: Texas State Patrol statewide data
+`finalized_model.sav`: Final .sav model created using tree-based classifiers <br>
+`texas_statewide.csv`: Texas State Patrol statewide data <br>
 `tx_state_patrol.ipynb`: Jupyter notebook containing code used to analyze data and create classification algorithm 
 
 ## Results 
