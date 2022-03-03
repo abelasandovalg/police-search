@@ -26,7 +26,7 @@ Data cleaning for the datset includes:
 
 ## Results 
 ### Exploratory Data Analysis 
-The data analysis revealed insights based on both race and sex data. From solely looking at race data, Black and Hispanic people are 1.90 and 1.39 times more likely to be searched during a traffic stop, respectively: 
+The data analysis revealed insights based on both race and sex data. From solely looking at race data, Black and Hispanic people are 1.90 and 1.39 times more likely to be searched during a traffic stop than their White counterparts, respectively: 
 
 ![Searches by Race](https://github.com/abelasandovalg/police-search/blob/main/images/race.png)
 
