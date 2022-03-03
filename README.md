@@ -30,26 +30,26 @@ The data analysis revealed insights based on both race and sex data. From solely
 
 **Searches per 100,000 Traffic Stops by Race:**
 
-Black:                  3431.6 Searches per 100,000 Traffic Stops
-Hispanic:               2504.2 Searches per 100,000 Traffic Stops
-Other:                  1904.0 Searches per 100,000 Traffic Stops
-White:                  1797.8 Searches per 100,000 Traffic Stops
-Asian/pacific islander:  956.4 Searches per 100,000 Traffic Stops
+Black:                  3431.6 Searches per 100,000 Traffic Stops <br>
+Hispanic:               2504.2 Searches per 100,000 Traffic Stops <br>
+Other:                  1904.0 Searches per 100,000 Traffic Stops <br>
+White:                  1797.8 Searches per 100,000 Traffic Stops <br>
+Asian/pacific islander:  956.4 Searches per 100,000 Traffic Stops <br>
 
 Now, when combining both race and sex into a single column, there are a lot more interesting insights: 
 
 **Searches per 100,000 Traffic Stops by Race/Sex:**
 
-BM: 4325.5 Searches per 100,000 Traffic Stops
-HM: 2993.4 Searches per 100,000 Traffic Stops
-WM: 2135.0 Searches per 100,000 Traffic Stops
-OM: 2033.3 Searches per 100,000 Traffic Stops
-BW: 1655.5 Searches per 100,000 Traffic Stops
-OW: 1590.8 Searches per 100,000 Traffic Stops
-HW: 1235.6 Searches per 100,000 Traffic Stops
-WW: 1128.4 Searches per 100,000 Traffic Stops
-AM: 1126.8 Searches per 100,000 Traffic Stops
-AW:  510.2 Searches per 100,000 Traffic Stops
+BM: 4325.5 Searches per 100,000 Traffic Stops <br>
+HM: 2993.4 Searches per 100,000 Traffic Stops <br>
+WM: 2135.0 Searches per 100,000 Traffic Stops <br>
+OM: 2033.3 Searches per 100,000 Traffic Stops <br>
+BW: 1655.5 Searches per 100,000 Traffic Stops <br>
+OW: 1590.8 Searches per 100,000 Traffic Stops <br>
+HW: 1235.6 Searches per 100,000 Traffic Stops <br>
+WW: 1128.4 Searches per 100,000 Traffic Stops <br>
+AM: 1126.8 Searches per 100,000 Traffic Stops <br>
+AW:  510.2 Searches per 100,000 Traffic Stops <br>
 
 One of the most notable insights from the data is that Black men are searched at least twice as much as any other demographic, followed by Hispanic men. Additionally, most men are searched more often than women are with the exception of Asian men, who are searched less often than white women. 
 
