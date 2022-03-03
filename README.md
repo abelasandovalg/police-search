@@ -1,4 +1,4 @@
-# Texas State Patrol: Traffic Stop Search Analysis/Classification
+# Texas State Patrol: Traffic Stop Search Classification
 
 ## Project Motivation 
 One of the most common ways that the public interacts with the police is through traffic stops which can lead to racial profiling, a discriminatory practice that often targets individuals based on race, ethnicity, religion, or national origin. To combat racial profiling in Texas, the state passed a law that requires each police agency to file an annual online racial profiling report as well as a comparative analysis to a governing body. However, these analyses have not been produced at all. Therefore, the motivation for this project was to analyze the data and pull insights from it as well as create a model that predicts whether or not someone will be searched based on traffic stop data. 
